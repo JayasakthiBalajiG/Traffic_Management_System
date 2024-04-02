@@ -14,8 +14,6 @@ Execution:
 1. Clone the repo
 2. Setting up the path - cd Traffic_Management_System
 3. By default the detected videos will be saved to the directory - Traffic_Management_System/runs/detect/predict{$number}
-   Go to Traffic_Management_System/runs - open VideoToImages.py file and change the path("video_path") of the detected video file and also the       
-   frames("output_folder") saving directory according to the local machine.
-4. Go to predict.py in the main directory and change the path of the ("image_directory") same as the path of ("output_folder"), to the folder where the frames are located.
-5. ./Run.sh - run the bash file directly in the terminal - if the local machine is Unix/Linux
-   Run.bat - run the bash file directly in the terminal - if the local machine is Windows
+4. Go to Traffic_Management_System/runs - open VideoToImages.py file and change the path("video_path") of the detected video file and also the frames("output_folder") saving directory according to the local machine.
+6. Go to predict.py in the main directory and change the path of the ("image_directory") same as the path of ("output_folder"), to the folder where the frames are located.
+7. ./Run.sh - run the bash file directly in the terminal - if the local machine is "Unix/Linux", Run.bat - run the bash file directly in the terminal - if the local machine is "Windows"
