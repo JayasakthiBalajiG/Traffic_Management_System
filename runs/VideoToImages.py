@@ -27,7 +27,7 @@ def extract_frames(video_path, output_folder):
 
 if __name__ == "__main__":
     # Replace 'input_video.mp4' with the path to your video file
-    video_path = "/Users/jayasakthibalajig/Sakthi/Traffic/TrafficManagement/runs/detect/predict2/TrafficTwo.MP4"
+    video_path = "/Users/jayasakthibalajig/Sakthi/Traffic/TrafficManagement/runs/detect/predict2/traffic_mumbai.mp4"
     
     # Replace 'output_frames' with the desired output folder
     output_folder = "/Users/jayasakthibalajig/Sakthi/Traffic/TrafficManagement/runs/Pics"
