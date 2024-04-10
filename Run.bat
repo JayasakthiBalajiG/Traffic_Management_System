@@ -1,7 +1,7 @@
 @echo off
 
 REM Predict using YOLOv8n model
-yolo predict model=yolov8n.pt source='TrafficTwo.MP4'
+yolo predict model=yolov8n.pt source='traffic_mumbai.mp4'
 
 REM Change directory to 'runs'
 cd runs
