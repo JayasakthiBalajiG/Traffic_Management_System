@@ -15,7 +15,7 @@ Execution:
 2. Setting up the path - cd Traffic_Management_System
 3. Install all the packages - pip install -r requirements.txt
 4. By default the detected videos will be saved to the directory - Traffic_Management_System/runs/detect/predict{$number}
-5. Go to Traffic_Management_System/runs - open VideoToImages.py file and change the path("video_path") of the detected video file [eg: predict which saves in increasing order (predict, predic2....)] and also the frames("output_folder") saving directory according to the local machine.
+5. Go to Traffic_Management_System/runs - open VideoToImages.py file and change the path("video_path") of the detected video file [eg: predict which saves in increasing order (predict, predict2....)] and also the frames("output_folder") saving directory according to the local machine.
 6. Go to predict.py in the main directory and change the path of the ("image_directory") same as the path of ("output_folder"), to the folder where the frames are located.
 
 
