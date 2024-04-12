@@ -30,5 +30,5 @@ WINDOWS machines:
 
 
 
-**CHECK THE DIRECTORY PATHS** twice before executing the command irrespective of the local machines used.
-**Recommendation**: Enter the full path of directories from the root drive/directory.
+* **CHECK THE DIRECTORY PATHS** twice before executing the command irrespective of the local machines used.
+* **Recommendation**: Enter the full path of directories from the root drive/directory.
