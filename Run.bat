@@ -19,6 +19,7 @@ for /r %%i in (*.DS_Store) do (
 
 REM Change directory back to the root directory
 cd ..
+cd ..
 
 REM Execute predict.py script
 python predict.py 
