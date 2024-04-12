@@ -28,7 +28,6 @@ WINDOWS machines:
 2. If an error generates that the file Run.bat is not mentioned in environmental variables, copy the path of Run.bat file and add it to the path variables, exit the terminal or cmd, and re-run .Run.bat command.
 * Install yolo and tensorflow packages if not installed previously using the pip command
 
-
-
+**IMPORTANT NOTE**
 * **CHECK THE DIRECTORY PATHS** twice before executing the command irrespective of the local machines used.
 * **Recommendation**: Enter the full path of directories from the root drive/directory.
