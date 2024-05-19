@@ -1,4 +1,4 @@
-yolo predict model=yolov8n.pt source='TrafficTwo.MP4'
+yolo predict model=yolov8n.pt source='test3.mp4'
 
 cd runs
 python3 VideoToImages.py
