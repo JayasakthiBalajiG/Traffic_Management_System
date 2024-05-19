@@ -35,6 +35,7 @@ WINDOWS machines:
 * **Recommendation**: Enter the full path of directories from the root drive/directory.
 
 
+**HARDWARE SCRIPTS**
 **The Python scripts for the raspberry pi has been added**
 1. latLon.py for generating the coordinates of the drone which will be sent to supervisors through alerts
 2. cameraFeed.sh for recoding the video feeds for further processes like detection, classification, and so on...,
