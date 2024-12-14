@@ -25,7 +25,7 @@ UNIX/LINUX machines:
 
 WINDOWS machines:
 
-* Create a folder named "Pics" inside the runs/ folder => not preferable, as the folder will be generated automatically when the paths are set correctly.
+* Create a folder named "Pics" inside the runs/ folder => not mandatory, as the folder will be generated automatically when the paths are set correctly.
 1. If the local machine is "Windows" => Run.bat - run the bash file directly in the terminal or cmd.
 2. If an error generates that the file Run.bat is not mentioned in environmental variables, copy the path of Run.bat file and add it to the path variables, exit the terminal or cmd, and re-run .Run.bat command.
 * Install yolo and tensorflow packages if not installed previously using the pip command
