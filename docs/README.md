@@ -4,7 +4,7 @@ Problem: Evaluating the traffic congestion shown by map engine services against 
 
 Solution:
 
-1. Detection of objects through the YOLO v7 model
+1. Detection of objects through the YOLO v8 model
 2. Analyzing the coordinates of the drone
 3. Detected videos to frames
 4. Classification, validation, and severity analysis through the VGG16 model
